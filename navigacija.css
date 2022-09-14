@@ -35,7 +35,7 @@
     grid-template-columns: 1fr;
     justify-content: center;
     align-content: center;
-    background-image: url('New Folder/naslovna.jpg');
+    background-image: url('../New Folder/naslovna.jpg');
     background-color: aqua;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
